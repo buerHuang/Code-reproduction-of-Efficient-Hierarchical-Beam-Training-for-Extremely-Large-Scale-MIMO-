@@ -14,4 +14,6 @@ J. Dai et al., "Efficient Hierarchical Beam Training for Extremely Large-Scale M
 
 This is an unofficial implementation. All credit for the original algorithm and theoretical contributions belongs to the authors of the referenced paper.
 
-![Rate_SNR](https://github.com/buerHuang/Code-reproduction-of-Efficient-Hierarchical-Beam-Training-for-Extremely-Large-Scale-MIMO-/blob/main/Rate_SNR.svg)
+<p align="center">
+  <img src="https://github.com/buerHuang/Code-reproduction-of-Efficient-Hierarchical-Beam-Training-for-Extremely-Large-Scale-MIMO-/blob/main/Rate_SNR.svg" alt="Rate vs. SNR" width="600">
+</p>
