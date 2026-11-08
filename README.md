@@ -1,6 +1,15 @@
-# Code reproduction of Efficient Hierarchical Beam Training for Extremely Large-Scale MIMO
-This is the code reproduction of the paper "Efficient Hierarchical Beam Training for Extremely Large-Scale MIMO: From Far-Field to Near-Field".
+# Unofficial Implementation of Efficient Hierarchical Beam Training for Extremely Large-Scale MIMO
 
-Link: https://ieeexplore.ieee.org/abstract/document/11665551
+This repository provides an independent MATLAB implementation of the beam training method proposed in the paper **"Efficient Hierarchical Beam Training for Extremely Large-Scale MIMO: From Far-Field to Near-Field"**.
 
-J. Dai et al., “Efficient hierarchical beam training for extremely large-scale MIMO: From far-field to near-field,” _IEEE Trans. Veh. Technol._, early access, Aug. 2026, doi: 10.1109/TVT.2026.3727316.
+The implementation is based on the published methodology and is intended for academic research and reproducibility purposes.
+
+### Reference
+
+J. Dai et al., "Efficient Hierarchical Beam Training for Extremely Large-Scale MIMO: From Far-Field to Near-Field," *IEEE Trans. Veh. Technol.*, early access, Aug. 2026, doi: 10.1109/TVT.2026.3727316.
+
+**Paper:** https://ieeexplore.ieee.org/abstract/document/11665551
+
+### Disclaimer
+
+This is an unofficial implementation. All credit for the original algorithm and theoretical contributions belongs to the authors of the referenced paper.
